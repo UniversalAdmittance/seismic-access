@@ -1,0 +1,16 @@
+id,x,y,height,typology,storeys,confinement,slope,soil
+1,50.0,22.0,9.0,URM_low,3,mid_row,0.05,C
+2,55.0,23.0,12.0,URM_mid,4,end_row,0.08,B
+3,80.0,22.5,6.0,URM_low,2,mid_row,0.10,C
+4,110.0,21.0,15.0,RC_old,5,isolated,0.02,B
+5,140.0,23.5,10.5,URM_mid,3,courtyard,0.15,D
+6,60.0,-2.0,8.0,URM_low,2,end_row,0.05,C
+7,90.0,-1.5,11.0,URM_mid,3,mid_row,0.12,C
+8,120.0,-3.0,18.0,RC_new,6,isolated,0.01,B
+9,35.0,21.5,7.5,URM_low,2,mid_row,0.08,C
+10,160.0,22.0,9.0,URM_mid,3,end_row,0.06,C
+11,45.0,-1.0,10.0,URM_low,3,courtyard,0.04,B
+12,75.0,-2.5,14.0,URM_mid,4,mid_row,0.10,D
+13,105.0,-1.0,8.5,URM_low,2,end_row,0.07,C
+14,135.0,-3.5,16.0,RC_old,4,isolated,0.03,B
+15,155.0,23.0,6.5,URM_low,2,mid_row,0.09,C
